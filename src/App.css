@@ -27,5 +27,15 @@
 }
 
 .palindrome__input:focus {
-  box-shadow: 5px 5px 5px rgba(32,33,36,0.28);;
+  box-shadow: 5px 5px 5px rgba(32,33,36,0.28);
+}
+
+.palindrome__valid {
+  color: green;
+  font-weight: bold;
+}
+
+.palindrome__invalid {
+  color: red;
+  font-weight: bold;
 }

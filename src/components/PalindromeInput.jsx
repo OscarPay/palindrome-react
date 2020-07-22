@@ -18,7 +18,7 @@ const PalindromeInput = () => {
             <input className="palindrome__input" type="text" onChange={handleChange}/>
             {
                 hasWrite &&
-                    ((isPalindrome) ? <p>Yes, it is! :D</p> : <p>No, is not :C</p>)
+                    ((isPalindrome) ? <p className="palindrome__valid">Yes, it is! 😃</p> : <p className="palindrome__invalid">No, is not 😕</p>)
             }
         </div>
     )
