@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/palindrome-react/static/css/main.b5372168.chunk.css",
-    "main.js": "/palindrome-react/static/js/main.8e7e26f3.chunk.js",
-    "main.js.map": "/palindrome-react/static/js/main.8e7e26f3.chunk.js.map",
+    "main.js": "/palindrome-react/static/js/main.cf3f5a09.chunk.js",
+    "main.js.map": "/palindrome-react/static/js/main.cf3f5a09.chunk.js.map",
     "runtime-main.js": "/palindrome-react/static/js/runtime-main.ab2eeb83.js",
     "runtime-main.js.map": "/palindrome-react/static/js/runtime-main.ab2eeb83.js.map",
     "static/js/2.c97f3f64.chunk.js": "/palindrome-react/static/js/2.c97f3f64.chunk.js",
     "static/js/2.c97f3f64.chunk.js.map": "/palindrome-react/static/js/2.c97f3f64.chunk.js.map",
     "index.html": "/palindrome-react/index.html",
-    "precache-manifest.fa53b19e833feee43144d5c49ea769af.js": "/palindrome-react/precache-manifest.fa53b19e833feee43144d5c49ea769af.js",
+    "precache-manifest.71b160299428b2759d089fafe4a4ba2c.js": "/palindrome-react/precache-manifest.71b160299428b2759d089fafe4a4ba2c.js",
     "service-worker.js": "/palindrome-react/service-worker.js",
     "static/css/main.b5372168.chunk.css.map": "/palindrome-react/static/css/main.b5372168.chunk.css.map",
     "static/js/2.c97f3f64.chunk.js.LICENSE.txt": "/palindrome-react/static/js/2.c97f3f64.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ab2eeb83.js",
     "static/js/2.c97f3f64.chunk.js",
     "static/css/main.b5372168.chunk.css",
-    "static/js/main.8e7e26f3.chunk.js"
+    "static/js/main.cf3f5a09.chunk.js"
   ]
 }
