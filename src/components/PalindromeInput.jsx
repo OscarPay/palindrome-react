@@ -7,7 +7,7 @@ const PalindromeInput = () => {
 
     const handleChange = event => {
         const original = event.target.value;
-        const formatOriginal = original.toLowerCase().replace(/ /g, '');
+        const formatOriginal = original.toLowerCase().replace(/ /g, '').normalize('NFD').replace(/[\u0300-\u036f]/g, "");
         setHasWrite(Boolean(formatOriginal))
         const reversed = formatOriginal.split('').reverse().join('');
         setIsPalindrome(formatOriginal === reversed)
